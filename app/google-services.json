@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1076555639325",
+    "project_id": "flash-energy-298711",
+    "storage_bucket": "flash-energy-298711.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076555639325:android:de6d8269d8b33eb32074f4",
+        "android_client_info": {
+          "package_name": "com.example.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076555639325-oneau95anr0tetig46kqre5q7th017tb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz9yjeGM5PHfbB4lFalmDGP2Q4DItQeSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076555639325-oneau95anr0tetig46kqre5q7th017tb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
